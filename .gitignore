@@ -1,16 +1,16 @@
 # 이 주석은 .gitignore 파일 안에서 사용할 수 있습니다.
-ai_0009_cnn_CIFAR10/
-# test 폴더 무시
-#ai_0009_cnn_CIFAR10/test
 
-*.png
+# test 폴더 무시
+ai_0009_cnn_CIFAR10/test
+
+
 
 
 # train 폴더 무시
-#ai_0009_cnn_CIFAR10/train
+ai_0009_cnn_CIFAR10/train
 
 # data 폴더 무시
-#ai_0009_cnn_CIFAR10/data
+ai_0009_cnn_CIFAR10/data
 
 
 ; #특정파일 제외 (※모든 경로에 적용!)
